@@ -1,7 +1,7 @@
 ## Seja bem vindo(a)! Eu sou a Carolina Hulse.
 
 - 🔭 Atualmente estou a procura de um emprego.
-- 🌱 Estudando Java e JavaScript.
+- 🌱 Estudando Java, JavaScript e aprimorando meus conhecimentos.
 - 📫 E-mail: carolinahulse321@gmail.com
 - 😄 Pronome: Ela/dela.
 
